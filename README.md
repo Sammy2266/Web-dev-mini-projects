@@ -62,14 +62,7 @@ git push -u origin <your_branch_name>
 
 **8.** Create a Pull Request!
 
-**Congratulations!** Sit and relax till we review your PR, you've made your contribution to (https://github.com/Ayushparikh-code/Web-dev-mini-projects) project
-
-<br>
-
- ## Our valuable Contributors👩‍💻👨‍💻 :
-
-
- <br>
+**Congratulations!** Sit and relax till we review your PR, you've made your contribution to (https://github.com/Sammy2266/Web-dev-mini-projects) projects
  <br>
 
 </tr>
