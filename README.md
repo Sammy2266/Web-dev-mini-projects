@@ -19,12 +19,12 @@ inthe
 
 ## HOW TO CONTRIBUTE ? 👷 
 
-**1.** Fork [this](https://github.com/Ayushparikh-code/Web-dev-mini-projects) repository.
+**1.** Fork [this](https://github.com/Sammy2266/Web-dev-mini-projects) repository.
 
 **2.** Clone the forked repository.
 
 ```terminal
-git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects 
+git clone https://github.com/Sammy2266/Web-dev-mini-projects 
 ```
 
 **3.** Navigate to the project directory.
@@ -71,20 +71,7 @@ git push -u origin <your_branch_name>
 
  <br>
  <br>
- 
-## Project Maintainers 👷👷:
 
- 
-<table>
-<tr>
-<td align="center"><a href="https://github.com/Ayushparikh-code"><img src="https://avatars.githubusercontent.com/u/60268067?v=4" width=150px height=150px /></a></br> <h4 style="color:red;">Ayush Parikh</h4>
-<a href="https://www.linkedin.com/in/ayush-parikh332/"><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="32px"></a></td>
-
-<td align="center" ><a href="https://github.com/chicken-biryani"><img src="https://avatars.githubusercontent.com/u/41121520?v=4" width=150px height=150px /></a></br> <h4 style="color:red;">Shloka Gupta</h4>
-<a href="https://www.linkedin.com/in/shloka-gupta-45b974157"><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="32px"></a></td>
-
-<td align="center"><a href="https://github.com/harshita2216"><img src="https://avatars.githubusercontent.com/u/65803563?v=4" width=150px height=150px /></a></br> <h4 style="color:red;">S Harshita</h4>
-<a href="https://www.linkedin.com/in/s-harshita/"><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="32px"></a></td>
 </tr>
 </table>
 <br>
@@ -103,16 +90,7 @@ git push -u origin <your_branch_name>
   </td>
   </tr>
 </table>
-    <hr>
-
-
-<p align="center">
-<a href="https://github.com/Ayushparikh-code/Web-dev-mini-projects" title="Web-dev-mini-projects">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
     
-</a>
-</p>
-
 <hr>
 <hr>
 
